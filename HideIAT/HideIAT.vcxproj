@@ -73,7 +73,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HideIAT.hpp" />
-    <ClInclude Include="_type_traits.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

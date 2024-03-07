@@ -27,8 +27,5 @@
     <ClInclude Include="HideIAT.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="_type_traits.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
